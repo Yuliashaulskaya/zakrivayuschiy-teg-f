@@ -153,8 +153,8 @@
 
 .card__like-button {
   min-width: 118px;
-  padding-block-start: 10px;
-  padding-block-end: 6px;
+  padding-block-start: 12px;
+  padding-block-end: 8px;
 }
 
 .floppy-svg {
